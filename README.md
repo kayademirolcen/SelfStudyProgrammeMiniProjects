@@ -1,5 +1,5 @@
 # Self-Study Programme: MiniProjects
-A structured 30-week, two-track programme of 60 mini-projects spanning core AI/ML (optimisation, CNNs, transformers, diffusion, RL, GNNs, robustness, distributed) and quantum information (single/multi-qubit, entanglement, QAOA/VQE/QPE, channels, QKD, error-correction, Ising, resource theories). Designed to build a cohesive portfolio with weekly goals, readings, and review checklists.
+A structured 30-week, two-track programme of 60 mini-projects spanning core AI/ML and quantum information. Designed to build a cohesive portfolio with weekly goals, readings, and review checklists.
 
 ## Weeks (1–30):
 1. Linear Algebra & Single-Qubit Mechanics
